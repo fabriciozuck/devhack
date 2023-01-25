@@ -1,2 +1,2 @@
 # DevHack
-DevHack WebSite
+https://devhacknews.vercel.app/
